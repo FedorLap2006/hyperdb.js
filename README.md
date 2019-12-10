@@ -1,2 +1,2 @@
-# hyperdb.js
-Hyper Database Wrapper 
+# nitrodb.js
+Nitro Database Wrapper 
